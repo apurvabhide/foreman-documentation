@@ -10,6 +10,7 @@ Welcome to Foreman Project's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   installing-foreman-chapter
 
 
 Indices and tables
